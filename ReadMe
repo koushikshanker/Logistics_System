@@ -1,0 +1,10 @@
+This project is developed to improve one's Object Oriented Programming and also improves low level design.
+
+This project doesnt have any UI and mainly works on console, takes input from user via console. Sample output results present in "Output_Console" folder.
+
+The basic functionality of this design:
+• The system can take an order to deliver it to a given destination. 
+• The order will be a list of items and there is a cost of each order to process. 
+• User has to register himself / herself to use this system. 
+• User can track his / her order. 
+• Orders will be shipped by bike or truck, but only a single order will be shipped by a single vehicle.
